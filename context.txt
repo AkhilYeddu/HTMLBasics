@@ -1,0 +1,10 @@
+WHAT IS HTML?
+HTML is the most basic building block of the web
+it allows you to add/change the website content.
+HTML is Hyper Text Markup Language.
+
+USEFUL FOR: Web devs, Software devs, Freelancers
+
+HTML= Foundation
+CSS= Interior
+JavaScript= adds functionality
